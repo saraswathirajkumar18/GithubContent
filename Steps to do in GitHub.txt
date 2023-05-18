@@ -5,3 +5,4 @@ Steps to do in GitHub:
 3.create new file/upload file
 4.commit
 5.you can edit content and commit
+6.History see edited details
