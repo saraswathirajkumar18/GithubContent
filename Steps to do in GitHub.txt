@@ -11,5 +11,6 @@ Steps to do in GitHub:
 Branching:
 it is the process of making copy of main branch content.inorder to try new features without affecting main branch content.if the modification stastify your need then merge the content in main branch.
 use:
-it might chances our new modification affect our old well working functionalities,to avoid this we create copy of that,then make new branch,edit files in new branch,work.
-
+it might chances our new modification affect our old well working functionalities,to avoid this we create copy of that,then make new branch,edFork:it files in new branch,work.
+Fork:
+It is the process of getting copy of other person's repository content.
