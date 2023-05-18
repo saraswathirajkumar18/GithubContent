@@ -6,3 +6,10 @@ Steps to do in GitHub:
 4.commit
 5.you can edit content and commit
 6.History see edited details
+7.In insights tab,click network,here you can see pictorial representation of your project
+8.details of repostiory created,file added and edited detials.
+Branching:
+it is the process of making copy of main branch content.inorder to try new features without affecting main branch content.if the modification stastify your need then merge the content in main branch.
+use:
+it might chances our new modification affect our old well working functionalities,to avoid this we create copy of that,then make new branch,edit files in new branch,work.
+
