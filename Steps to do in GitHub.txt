@@ -14,3 +14,7 @@ use:
 it might chances our new modification affect our old well working functionalities,to avoid this we create copy of that,then make new branch,edFork:it files in new branch,work.
 Fork:
 It is the process of getting copy of other person's repository content.
+Conflict Merge:
+When different users submit different solution for same problem,it occurs.respository owner decides which one wants to keep or how to handle that.
+Issues:
+It is used to give sugggestion,ask help and enhancement to project.
